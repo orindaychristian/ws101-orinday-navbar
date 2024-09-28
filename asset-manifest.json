@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-orinday-navbar/static/css/main.e6059d86.css",
+    "main.js": "/ws101-orinday-navbar/static/js/main.b83e7397.js",
+    "index.html": "/ws101-orinday-navbar/index.html",
+    "main.e6059d86.css.map": "/ws101-orinday-navbar/static/css/main.e6059d86.css.map",
+    "main.b83e7397.js.map": "/ws101-orinday-navbar/static/js/main.b83e7397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6059d86.css",
+    "static/js/main.b83e7397.js"
+  ]
+}
